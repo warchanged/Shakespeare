@@ -1,4 +1,5 @@
 # Shakespeare
+Achieve participation in basic multi-round conversations about Shakespeare's plays. - Answer factual and thematic questions about characters, events and scenes. - Generate short quotations or passages from the Shakespeare corpus. - Summarise selected scenes from a given play in prose form
 1. Data Ingestion
 Shakespeare Corpus: The raw dataset containing Shakespeare’s plays, often in CSV format.
 
